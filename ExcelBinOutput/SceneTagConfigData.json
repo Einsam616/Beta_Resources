@@ -332,7 +332,7 @@
   },
   {
     "id": 141,
-    "sceneTagName": "CYJY_Phase1_ON",
+    "sceneTagName": "CYJY_Phase1_ON",//层岩1阶段ON
     "sceneId": 3,
     "isDefaultValid": true,
     "OINJFCJEPNF": true,
@@ -341,7 +341,7 @@
   },
   {
     "id": 142,
-    "sceneTagName": "CYJY_Phase1_OFF",
+    "sceneTagName": "CYJY_Phase1_OFF",//层岩1阶段OFF
     "sceneId": 3,
     "OINJFCJEPNF": true,
     "MPCPJKAPGLF": true,
@@ -383,7 +383,7 @@
   },
   {
     "id": 147,
-    "sceneTagName": "Irodori",
+    "sceneTagName": "Irodori",//稻妻-华彩祭
     "sceneId": 3,
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
@@ -398,7 +398,7 @@
   },
   {
     "id": 149,
-    "sceneTagName": "SHOPYamashiroKenta",
+    "sceneTagName": "SHOPYamashiroKenta",//商店
     "sceneId": 3,
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
@@ -421,25 +421,51 @@
   },
   {
     "id": 152,
-    "sceneTagName": "Vintage",
+    "sceneTagName": "Vintage",//酿佳节-活动场景装饰(清泉镇)
     "sceneId": 3,
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
   },
   {
     "id": 153,
-    "sceneTagName": "Vintage_Md",
+    "sceneTagName": "Vintage_Md",//酿佳节-活动场景装饰(蒙德城)
     "sceneId": 3,
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
   },
   {
     "id": 154,
-    "sceneTagName": "FungusFighter",
+    "sceneTagName": "FungusFighter",//蔁兽-活动场景装饰(奥摩斯港)
     "sceneId": 3,
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
   },
+  ////////////////////////////////////////////////////////////
+  //                    SceneTag-3.3                        //
+  //              以下均为3.3版本的试胆大会SceneTag           //
+  ////////////////////////////////////////////////////////////
+  {
+    "id": 155,
+    "sceneTagName": "BrickBreaker01",//试胆大会1
+    "sceneId": 3,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  {
+    "id": 156,
+    "sceneTagName": "BrickBreaker02",//试胆大会2
+    "sceneId": 3,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  {
+    "id": 157,
+    "sceneTagName": "BrickBreaker03",//试胆大会3
+    "sceneId": 3,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  //------------------到此结束------------------------------
   {
     "id": 1001,
     "sceneTagName": "Combine_Lyg",
@@ -1897,6 +1923,31 @@
     "MPCPJKAPGLF": true,
     "cond": [{}, {}]
   },
+  //////////////////////////////////////////////
+  //            3.3-New-SceneTag              //
+  //////////////////////////////////////////////
+  {
+    "id": 1206,
+    "sceneTagName": "ScarBoss01",
+    "sceneId": 20171,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  {
+    "id": 1207,
+    "sceneTagName": "ScarBoss02",
+    "sceneId": 20171,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  {
+    "id": 1208,
+    "sceneTagName": "Combine_BrickBreaker01",
+    "sceneId": 3,
+    "MPCPJKAPGLF": true,
+    "cond": [{}, {}]
+  },
+  //-------------------到处结束-------------------------------------
   {
     "id": 1209,
     "sceneTagName": "JSG_State1",

@@ -3997,6 +3997,30 @@
     },
     "progress": 1
   },
+  ///////////////////////////////////////////
+  //        3.3-New-Achievement   Only-one //
+  ///////////////////////////////////////////
+  {
+    "goalId": 37,
+    "orderId": 194,
+    "titleTextMapHash": 3052263908,//unknow
+    "descTextMapHash": 3497767885,//unknow
+    "ps4GroupId": 9,
+    "ps5GroupId": 5,
+    "ps5TitleTextMapHash": 2645811679,//unknow
+    "ttype": "\u94f6",
+    "psTrophyId": "66",
+    "ps4TrophyId": "66",
+    "ps5TrophyId": "67",
+    "icon": "UI_AchievementIcon_A013",
+    "finishRewardId": 800178,
+    "id": 80192,
+    "triggerConfig": {
+      "triggerType": "TRIGGER_FINISH_PARENT_QUEST_AND",
+      "paramList": ["70665", "", "", ""]
+    },
+    "progress": 1
+  },
   {
     "orderId": 1000,
     "titleTextMapHash": 2647451916,

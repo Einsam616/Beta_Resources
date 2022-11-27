@@ -1323,10 +1323,19 @@
       {}
     ]
   },
+  ////////////////////////////////////////
+  //    3.3-New-OpenState  ALLUNDER     //
+  ////////////////////////////////////////
   {
     "id": 3300,
     "allowClientOpen": true,
-    "cond": [{}, {}]
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7066518
+      },
+      {}
+    ]
   },
   {
     "id": 3301,
@@ -1346,7 +1355,13 @@
   {
     "id": 3304,
     "allowClientOpen": true,
-    "cond": [{}, {}]
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7066510
+      },
+      {}
+    ]
   },
   {
     "id": 3305,
@@ -1361,7 +1376,13 @@
   {
     "id": 3307,
     "allowClientOpen": true,
-    "cond": [{}, {}]
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7066510
+      },
+      {}
+    ]
   },
   {
     "id": 3308,
@@ -1371,7 +1392,13 @@
   {
     "id": 3309,
     "allowClientOpen": true,
-    "cond": [{}, {}]
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7066518
+      },
+      {}
+    ]
   },
   {
     "id": 3310,
@@ -1385,6 +1412,11 @@
   },
   {
     "id": 3311,
+    "allowClientOpen": true,
+    "cond": [{}, {}]
+  },
+  {
+    "id": 3312,
     "allowClientOpen": true,
     "cond": [{}, {}]
   }
