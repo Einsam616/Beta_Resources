@@ -97982,7 +97982,7 @@
       1369696495, 3744809995, 712837846, 215625725
     ],
     "lifeEffectParams": ["", "", "", "", ""],
-    "openConfig": "Wanderer_SkillUpgrade_1",
+    "openConfig": "Wanderer_PermanentSkill_1",
     "addProps": [{}, {}],
     "paramList": [
       0.25, 250.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
