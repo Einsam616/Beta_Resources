@@ -16513,5 +16513,267 @@
       }
     ],
     "requiredPlayerLevel": 50
+  },
+  ////////////////////////////////////
+  //       3.3Avatar-Promote        //
+  ////////////////////////////////////
+  {
+    "avatarPromoteId": 75,//流浪者1阶段突破
+    "promoteLevel": 1,
+    "promoteAudio": "",
+    "scoinCost": 20000,
+    "costItems": [
+      {
+        "id": 104151,
+        "count": 1
+      },
+      {
+        "id": 101213,
+        "count": 3
+      },
+      {
+        "id": 112044,
+        "count": 3
+      }
+    ],
+    "unlockMaxLevel": 40,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 667.531469
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 42.8355
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 14.102028
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT"
+      }
+    ],
+    "requiredPlayerLevel": 15
+  },
+  {
+    "avatarPromoteId": 75,//流浪者2阶段突破
+    "promoteLevel": 2,
+    "promoteAudio": "",
+    "scoinCost": 40000,
+    "costItems": [
+      {
+        "id": 104152,
+        "count": 3
+      },
+      {
+        "id": 113038,
+        "count": 2
+      },
+      {
+        "id": 101213,
+        "count": 10
+      },
+      {
+        "id": 112044,
+        "count": 15
+      }
+    ],
+    "unlockMaxLevel": 50,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1141.830144
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 73.27125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 24.12189
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT",
+        "value": 0.06
+      }
+    ],
+    "requiredPlayerLevel": 25
+  },
+  {
+    "avatarPromoteId": 75,//流浪者3阶段突破
+    "promoteLevel": 3,
+    "promoteAudio": "",
+    "scoinCost": 60000,
+    "costItems": [
+      {
+        "id": 104152,
+        "count": 6
+      },
+      {
+        "id": 113038,
+        "count": 4
+      },
+      {
+        "id": 101213,
+        "count": 20
+      },
+      {
+        "id": 112045,
+        "count": 12
+      }
+    ],
+    "unlockMaxLevel": 60,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1774.228378
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 113.85225
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 37.481706
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT",
+        "value": 0.12
+      }
+    ],
+    "requiredPlayerLevel": 30
+  },
+  {
+    "avatarPromoteId": 75,//流浪者4阶段突破
+    "promoteLevel": 4,
+    "promoteAudio": "",
+    "scoinCost": 80000,
+    "costItems": [
+      {
+        "id": 104153,
+        "count": 3
+      },
+      {
+        "id": 113038,
+        "count": 8
+      },
+      {
+        "id": 101213,
+        "count": 30
+      },
+      {
+        "id": 112045,
+        "count": 18
+      }
+    ],
+    "unlockMaxLevel": 70,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2248.527053
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 144.288
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 47.501568
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT",
+        "value": 0.12
+      }
+    ],
+    "requiredPlayerLevel": 35
+  },
+  {
+    "avatarPromoteId": 75,//流浪者5阶段突破
+    "promoteLevel": 5,
+    "promoteAudio": "",
+    "scoinCost": 100000,
+    "costItems": [
+      {
+        "id": 104153,
+        "count": 6
+      },
+      {
+        "id": 113038,
+        "count": 12
+      },
+      {
+        "id": 101213,
+        "count": 45
+      },
+      {
+        "id": 112046,
+        "count": 12
+      }
+    ],
+    "unlockMaxLevel": 80,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2722.825728
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 174.72375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 57.52143
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT",
+        "value": 0.18
+      }
+    ],
+    "requiredPlayerLevel": 40
+  },
+  {
+    "avatarPromoteId": 75,//流浪者6阶段突破
+    "promoteLevel": 6,
+    "promoteAudio": "",
+    "scoinCost": 120000,
+    "costItems": [
+      {
+        "id": 104154,
+        "count": 6
+      },
+      {
+        "id": 113038,
+        "count": 20
+      },
+      {
+        "id": 101213,
+        "count": 60
+      },
+      {
+        "id": 112046,
+        "count": 24
+      }
+    ],
+    "unlockMaxLevel": 90,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3197.124403
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 205.1595
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 67.541292
+      },
+      {
+        "propType": "FIGHT_PROP_WIND_ADD_HURT",
+        "value": 0.24
+      }
+    ],
+    "requiredPlayerLevel": 50
   }
 ]
