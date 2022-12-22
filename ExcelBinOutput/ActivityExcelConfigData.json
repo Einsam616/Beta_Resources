@@ -1,31 +1,40 @@
 [
-  {
-    "ActivityId": 1001,
-    "Type": "ACTIVITY_SEA_LAMP",
-    "DestroyItem": [
-      {
-        "ItemId": [200001, 200002, 200003, 200004]
-      },
-      {
-        "ItemId": []
-      }
-    ],
-    "NameTextMapHash": 4266261887,
-    "ActivitySceneTag": "Hdj",
-    "IsLoadTerrain": true
-  },
-  {
-    "ActivityId": 5001,
-    "Type": "ACTIVITY_CRUCIBLE",
-    "DestroyItem": [
-      {
-        "ItemId": []
-      },
-      {
-        "ItemId": []
-      }
-    ],
-    "NameTextMapHash": 1568489287,
-    "ActivitySceneTag": ""
-  }
+    //////////////////////////////////
+    //    RES-By Sakura616#0807     //
+    //////////////////////////////////
+    //非专业人士-凑合着玩玩吧
+    {
+        "ActivityId": 1001,
+        "Type": "ACTIVITY_SEA_LAMP",
+        "DestroyItem": [
+            {
+                "ItemId": [
+                    200001,
+                    200002,
+                    200003,
+                    200004
+                ]
+            },
+            {
+                "ItemId": []
+            }
+        ],
+        "NameTextMapHash": 4266261887,
+        "ActivitySceneTag": "Hdj",
+        "IsLoadTerrain": true
+    },
+    {
+        "ActivityId": 5001,
+        "Type": "ACTIVITY_CRUCIBLE",
+        "DestroyItem": [
+            {
+                "ItemId": []
+            },
+            {
+                "ItemId": []
+            }
+        ],
+        "NameTextMapHash": 1568489287,
+        "ActivitySceneTag": ""
+    }
 ]

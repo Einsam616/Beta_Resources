@@ -157,7 +157,7 @@
                     [
                         {
                             "$type" : "AvatarSkillStart",
-                            "skillID" : 10003,
+                            "skillID" : 10003,//法器重击
                             "costStaminaRatio":"%ExtraAttack_Catalyst_Stamina_Cost"
                         }
                     ]
@@ -349,7 +349,7 @@
                                 "hitImpulseType": "LV5",
                                 "overrideHitImpulse":
                                 {
-                                    "hitLevel": "Air",
+                                    "hitLevel": "Wind",//风伤
                                     "hitImpulseX": 0,
                                     "hitImpulseY": 400
                                 },                                  

@@ -1377,6 +1377,58 @@
       "failExec": [],
       "LKPOHELCGKA": "",
       "PBFCIDGHHHE": ""
+    },
+    //------3.4------------
+    {
+      "HDBBFJKKGOM": false,
+      "subId": 30328,
+      "mainId": 303,
+      "order": 27,
+      "subIdSet": 0,
+      "isMpBlock": false,
+      "desc": "",
+      "LBPMFJBNGGG": "",
+      "AGIIGKJNLIG": "",
+      "showType": "QUEST_HIDDEN",
+      "ACEKFDIJKGJ": "BAN_GROUP_INVALID",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [30328, 0],
+          "count": 0
+        }
+      ],
+      "failCond": [],
+      "guide": {
+        "type": "QUEST_GUIDE_NONE",
+        "autoGuide": "QUEST_GUIDE_AUTO_NONE",
+        "param": [],
+        "guideScene": 0,
+        "guideStyle": "QUEST_GUIDE_STYLE_NONE",
+        "guideLayer": "QUEST_GUIDE_LAYER_NONE"
+      },
+      "showGuide": "QUEST_GUIDE_ITEM_ENABLE",
+      "LPNIEFEBKGK": {
+        "type": "QUEST_GUIDE_HINT_NONE",
+        "param1": ""
+      },
+      "NKDLEHHCADL": false,
+      "HKLAHKJAHJC": false,
+      "failParentShow": "QUEST_SHOW",
+      "EFIFPBKMMAA": false,
+      "finishExec": [
+        {
+          "type": "QUEST_EXEC_UNLOCK_POINT",
+          "param": ["3", "629"]
+        },
+        {
+          "type": "QUEST_EXEC_UNLOCK_AREA",
+          "param": ["3", "32"]
+        }
+      ],
+      "failExec": [],
+      "LKPOHELCGKA": "",
+      "PBFCIDGHHHE": ""
     }
   ],
   "talks": [],
