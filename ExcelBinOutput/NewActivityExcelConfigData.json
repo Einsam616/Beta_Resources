@@ -2897,5 +2897,25 @@
         "watcherId": [],
         "ACIJMPOEOMF": [],
         "dungeonIdList": []
+    },
+    {
+        "activityId": 5119,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2324205827,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "ACIJMPOEOMF": [],
+        "dungeonIdList": []
+    },
+    {
+        "activityId": 5126,
+        "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
+        "nameTextMapHash": 2324205827,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": [],
+        "ACIJMPOEOMF": [],
+        "dungeonIdList": []
     }
 ]

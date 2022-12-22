@@ -24048,6 +24048,98 @@
         "BIMCHJDGJHH": ""
     },
     {
+        "id": 4061,
+        "nameTextMapHash": 4275946776,
+        "displayNameTextMapHash": 2733729234,
+        "descTextMapHash": 1999453845,
+        "type": "DUNGEON_EFFIGY_CHALLENGE_V2",
+        "isDynamicLevel": true,
+        "sceneId": 40058,
+        "involveType": "INVOLVE_SINGLE_MULTIPLE",
+        "showLevel": 30,
+        "avatarLimitType": 21,
+        "limitLevel": 1,
+        "levelRevise": 29,
+        "passCond": 165,
+        "reviveIntervalTime": 10,
+        "reviveMaxCount": 10,
+        "dayEnterCount": 999,
+        "FCCFDEMHGEO": [
+            {}
+        ],
+        "settleCountdownTime": 999,
+        "failSettleCountdownTime": 30,
+        "quitSettleCountdownTime": 30,
+        "settleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "KILJGGKIOAE": true,
+        "recommendElementTypes": [
+            "Grass",
+            "Electric",
+            "None",
+            "None"
+        ],
+        "NILCBBCGJLC": [],
+        "levelConfigMap": {},
+        "enterCostItems": [],
+        "HCMALEDDJAH": 948183233,
+        "cityID": 1,
+        "entryPicPath": "",
+        "stateType": "DUNGEON_STATE_RELEASE",
+        "FEDJEJFCHHO": "",
+        "BIMCHJDGJHH": ""
+    },
+    {
+        "id": 4062,
+        "nameTextMapHash": 4275946776,
+        "displayNameTextMapHash": 2733729234,
+        "descTextMapHash": 1999453845,
+        "type": "DUNGEON_EFFIGY_CHALLENGE_V2",
+        "isDynamicLevel": true,
+        "sceneId": 40058,
+        "involveType": "INVOLVE_SINGLE_MULTIPLE",
+        "showLevel": 30,
+        "avatarLimitType": 21,
+        "limitLevel": 1,
+        "levelRevise": 29,
+        "passCond": 165,
+        "reviveIntervalTime": 10,
+        "reviveMaxCount": 10,
+        "dayEnterCount": 999,
+        "FCCFDEMHGEO": [
+            {}
+        ],
+        "settleCountdownTime": 999,
+        "failSettleCountdownTime": 30,
+        "quitSettleCountdownTime": 30,
+        "settleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "KILJGGKIOAE": true,
+        "recommendElementTypes": [
+            "Grass",
+            "Wind",
+            "None",
+            "None"
+        ],
+        "NILCBBCGJLC": [],
+        "levelConfigMap": {},
+        "enterCostItems": [],
+        "HCMALEDDJAH": 948183233,
+        "cityID": 1,
+        "entryPicPath": "",
+        "stateType": "DUNGEON_STATE_RELEASE",
+        "FEDJEJFCHHO": "",
+        "BIMCHJDGJHH": ""
+    },
+    {
         "id": 4601,
         "nameTextMapHash": 3937592928,
         "displayNameTextMapHash": 4277106946,
