@@ -1,3 +1,3 @@
-# GC_Resources
-Grasscutter_Resources for GenshinPS
-3.2.50
+# Beta_Resources
+Grasscutter_Resources 3.2.50 [deleted]
+已删除
